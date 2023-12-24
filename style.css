@@ -1,0 +1,123 @@
+
+h1{
+ margin-inline-start: 500px;
+  width: 200px;
+  color: green;
+}
+.paragraph{
+  margin-inline-start: 300px;
+   width: 650px;
+
+}
+
+header{
+ background-color: white;
+ color: green;
+ height: 50px;
+}
+header >.second-span{
+ margin-inline-start: 300px;
+ font-weight: bolder;
+ font-size: xx-large
+;
+}
+header>a{
+ text-decoration: none;
+ color: green;
+}
+
+.first-head{
+ text-align:center;
+}
+
+section {
+ width: 540px;
+ border: 1px solid rgb(255, 255, 255);
+ border-radius: 6px;
+ box-shadow: 0px 4px 50px 0px rgba(4, 8, 19, 0.1);
+ margin-block-start: 100px;
+ margin-inline-start: 330px;
+ background-color: rgb(255, 255, 255);
+ height: 460px;
+}
+
+.first-fieldset {
+ margin-block-start: 20px;
+ display: flex;
+ gap: 25px;
+ box-sizing: border-box;
+ padding-inline-start: 45px;
+ border: none;
+}
+
+.second-fieldset {
+ display: flex;
+ gap: 34px;
+ box-sizing: border-box;
+ padding-inline-start: 45px;
+ border: none;
+}
+
+.third-fieldset {
+ display: flex;
+ gap: 25px;
+ box-sizing: border-box;
+ padding-inline-start: 45px;
+ border: none;
+}
+
+.fourth-fieldset {
+ padding-inline-start: 45px;
+ border: none;
+
+}
+
+
+.fifth-fieldset {
+ padding-inline-start: 45px;
+ border: none;
+}
+
+.click {
+ text-align: center;
+ font-size: medium;
+}
+
+button {
+ width: 81%;
+ height: 35px;
+ margin-block-start: 10px;
+ margin-inline-start: 47px;
+ background-color: green;
+ border: none;
+}
+
+input,
+select {
+ width: 200px;
+ height: 30px;
+}
+
+.input-type-2 {
+ width: 200px;
+ height: 33px;
+}
+
+.input-type-3 {
+ width: 200px;
+ height: 30px;
+}
+
+.input-type-4 {
+ width: 92%;
+ height: 30px;
+}
+
+.input-type-5 {
+ width: 90%;
+ height: 30px;
+}
+
+.footer {
+ color: green;
+}
